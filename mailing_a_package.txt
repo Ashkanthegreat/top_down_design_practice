@@ -1,0 +1,14 @@
+Mailing a Package
+
+1.Prepare Package
+  1.1 Get Box
+  1.2 Address Box
+  1.3 Pack the box
+    1.3.1 Grab item to be shipped
+    1.3.2 Put item to be shipped in Box
+    1.3.3 Seal box
+2.Go to Post office
+  2.1 Put clothes on
+  2.2 Leave the house
+  2.3 Drive to post office
+3.Mail Package  
